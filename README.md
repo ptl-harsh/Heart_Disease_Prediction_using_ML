@@ -1,3 +1,3 @@
-Heart Disease Prediction using Machine Learing
+## Heart Disease Prediction using Machine Learing
 
 Algorithm used : Logistric Regression
